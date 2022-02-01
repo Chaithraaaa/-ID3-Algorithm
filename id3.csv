@@ -1,0 +1,22 @@
+Outline,Color,Dot,Shape
+Dashed,Green ,NO,Triangle
+Dashed,Green ,Yes,Triangle
+Dashed,Yellow ,NO,Square
+Dashed,Red ,NO,Square
+Solid,Red ,NO,Square
+Solid,Red,Yes,Triangle
+Solid,Green,No ,Square
+Dashed,Green ,No,Triangle
+Solid,Yellow,Yes ,Square
+Solid,Red,No,Square
+Solid,Green,Yes,Square
+Dashed,Yellow,Yes ,Square
+Solid,Yellow,No,Square
+Dashed,Red,Yes,Triangle
+
+
+
+
+
+
+
